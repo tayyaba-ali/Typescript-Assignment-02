@@ -26,8 +26,6 @@ class Vehicle {
     //== rent method
     rent() {
         if (!this.rented) {
-            this.
-            ;
         }
     }
 }

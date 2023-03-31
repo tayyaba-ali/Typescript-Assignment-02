@@ -28,7 +28,7 @@ abstract class Vehicle {
 
     rent() {
         if (!this.rented) {
-            this.
+            
         }
 
     }
